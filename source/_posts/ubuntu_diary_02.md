@@ -1,5 +1,5 @@
 ---
-title: Ubuntu日记02
+title: Ubuntu日记02-WIFI hotspot
 tag: [ ubuntu, wifi, hotspot]
 category: Ubuntu日记
 ---

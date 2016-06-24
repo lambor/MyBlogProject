@@ -1,5 +1,5 @@
 ---
-title: Ubuntu日记01
+title: Ubuntu日记01-修复模式
 tag: [ ubuntu, recovery, passwd]
 category: Ubuntu日记
 ---

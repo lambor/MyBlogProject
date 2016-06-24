@@ -1,5 +1,5 @@
 ---
-title: Ubuntu日记04
+title: Ubuntu日记04-JAVA安装
 tag: [ ubuntu, java_home]
 category: Ubuntu日记
 ---

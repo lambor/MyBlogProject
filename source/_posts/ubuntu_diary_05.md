@@ -1,5 +1,5 @@
 ---
-title: Ubuntu日记05
+title: Ubuntu日记05-双击运行bash
 tag: [ ubuntu, 双击运行]
 category: Ubuntu日记
 ---

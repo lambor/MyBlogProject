@@ -1,5 +1,5 @@
 ---
-title: Ubuntu日记03
+title: Ubuntu日记03-APT Log
 tag: [ ubuntu, apt, log]
 category: Ubuntu日记
 ---
