@@ -2,6 +2,7 @@
 title: Ubuntu日记01-修复模式
 tag: [ ubuntu, recovery, passwd]
 category: Ubuntu日记
+date: 2016-06-24
 ---
 
 # 使用ubuntu修复模式

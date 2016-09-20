@@ -2,6 +2,7 @@
 title: Ubuntu日记08-对bash的一些错误认识
 tag: [ubuntu,bash,misunderstanding]
 category: Ubuntu日记
+date: 2016-09-01
 ---
 
 # 对bash的一些错误认识 

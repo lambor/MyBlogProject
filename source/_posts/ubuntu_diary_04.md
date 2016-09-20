@@ -2,6 +2,7 @@
 title: Ubuntu日记04-JAVA安装
 tag: [ ubuntu, java_home]
 category: Ubuntu日记
+date: 2016-06-24
 ---
 
 # 关于安装Oracle Java

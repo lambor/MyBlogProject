@@ -2,6 +2,7 @@
 title: Ubuntu日记06-关于命令行中的空格
 tag: [ ubuntu, recovery, passwd]
 category: Ubuntu日记
+date: 2016-06-30
 ---
 
 # 关于命令行中的空格

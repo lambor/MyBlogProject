@@ -2,6 +2,7 @@
 title: Ubuntu日记02-WIFI hotspot
 tag: [ ubuntu, wifi, hotspot]
 category: Ubuntu日记
+date: 2016-06-24
 ---
 
 # ubuntu 15.10 wifi hotspot

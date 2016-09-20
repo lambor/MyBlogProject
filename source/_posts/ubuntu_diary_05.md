@@ -2,6 +2,7 @@
 title: Ubuntu日记05-双击运行bash
 tag: [ ubuntu, 双击运行]
 category: Ubuntu日记
+date: 2016-06-24
 ---
 
 # 双击运行bash script

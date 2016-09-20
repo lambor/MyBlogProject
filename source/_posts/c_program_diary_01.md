@@ -2,6 +2,7 @@
 title: C program 日记01-理解const和引出的问题
 tag: [GCC,const,pointer,misunderstanding]
 category: C语言日记
+date: 2016-09-18
 ---
 
 # 理解const和引出的问题

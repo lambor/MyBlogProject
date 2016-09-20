@@ -2,6 +2,7 @@
 title: Raspberry日记01-树莓派开wifi热点
 tag: [ raspberry, wifi, hotspot ]
 category: Raspberry日记
+date: 2016-06-30
 ---
 
 # Raspberry 

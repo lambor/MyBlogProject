@@ -2,6 +2,7 @@
 title: Ubuntu日记03-APT Log
 tag: [ ubuntu, apt, log]
 category: Ubuntu日记
+date: 2016-06-24
 ---
 
 # 关于APT Log
