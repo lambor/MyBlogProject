@@ -1,6 +1,6 @@
 ---
 title: 周记总结01-2016.10.22
-tag: [ week_note, source, ]
+tag: [ week_note, linux, android ]
 category: 周记总结
 date: 2016-10-22
 ---
@@ -17,9 +17,9 @@ date: 2016-10-22
 
 通过实验验证: `strace -f bash -c 'ls | grep hello'`2>&1 | grep --color -E 'exe|pip|$'`
 
-> strace -f   follow forks
-> bash -c     commands are read from the first non-option argument command_string
-> grep -E "$" every line is grepped
+> `strace -f`     follow forks
+> `bash -c`       commands are read from the first non-option argument command_string
+> `grep -E "$"`   every line is grepped
 
 查看输出即可发现`ls`和`grep`是同时fork出来的．
 
@@ -62,5 +62,13 @@ stty是设置tty输入输出等相关属性的
 set是设置shell的一些属性和环境变量的
 
 ## Android
+
+### Toast
+
+Toast 不需要在 UI线程中显示,只需要有Looper环境的线程就行
+
+### Service & AIDL
+虽然`onStartCommand`中的操作是线程同步的,好象是在UI线程中
+但是对于使用AIDL中的服务操作,却不是线程同步的.
 
 
